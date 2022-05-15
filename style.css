@@ -88,14 +88,14 @@ top: 50%;
         @keyframes cabin-animation {
             0%{
                 transform: rotate(0deg);
-                background-color: yellow;
+                background-color: pink;
 
             }
             50%{
-                background-color: purple;
+                background-color:rgb(153, 42, 153);
             }
             75%{
-                background-color: brown;
+                background-color: rgb(192, 255, 156);
             }
             100%{
                 transform: rotate(-360deg);
